@@ -16,6 +16,8 @@ Transport: Streamable HTTP · Auth: OAuth 2.1 with dynamic client registration �
 
 ---
 
+<p align="center"><img src="https://raw.githubusercontent.com/monetizemarketing/.github/main/profile/assets/connect.gif" alt="Claude Code: claude mcp add, /mcp, Authenticate, connected" width="100%"></p>
+
 ## 1 · Paste this into your AI
 
 Works in any client that can add MCP servers by itself (Claude, ChatGPT in developer mode, Codex, Cursor's agent and most agent platforms). Copy the box, paste it as a message, approve the sign-in link.
