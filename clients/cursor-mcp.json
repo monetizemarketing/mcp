@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "monetize-marketing": {
+      "url": "https://app.monetizemarketing.com/api/mcp"
+    }
+  }
+}

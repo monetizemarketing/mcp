@@ -1,0 +1,3 @@
+# ~/.codex/config.toml — then run: codex mcp login monetize-marketing
+[mcp_servers.monetize-marketing]
+url = "https://app.monetizemarketing.com/api/mcp"
